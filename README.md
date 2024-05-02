@@ -4,3 +4,5 @@
 
 ![images](painting.png)
 ![images](game.png)
+
+We can use Python and Pygame to creat the similar scene of Celebration and Octopath Traveller. Use Pygame's drawing functions to create the elements of the celebration, such as balloons, confetti, and text, and use FOR loop to draw pixel blocks for the scene. Then we can use key press function to make the interactive effects with characters or elements.
